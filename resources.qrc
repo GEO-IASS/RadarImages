@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/RadarImages" >
+        <file>satellite.png</file>
+    </qresource>
+</RCC>
